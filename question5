@@ -1,0 +1,3 @@
+Tempdata:從Controller傳回來的資料會存放在Session中，Request結束後即被刪除
+Viewdata:從Controller傳回來的資料會以Dictionary型別存放
+ViewBag:從Controller傳回來的資料會以dynamic型別存放
